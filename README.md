@@ -75,3 +75,4 @@ To ensure the longevity of the project, we will:
 # Conclusion
 "Pathways to Quality Education: Empowering Minds, Transforming Futures" seeks to provide a holistic and sustainable approach to improving education in underserved communities. By focusing on quality teaching, adequate resources, and community involvement, the project will contribute to a more inclusive and equitable education system. We invite partners and donors to join us in making this vision a reality and ensure that every child, regardless of their background, has access to quality education.
 
+![image](https://github.com/user-attachments/assets/d92014dd-9337-41f3-b355-4aa4f3845d64)
